@@ -8,7 +8,13 @@ SweetFX:
 * Bloom
 * LumaSharpen
 * Vibrance
+* HDR (off by default. Bound to F10)
 
+CustomFX:
+* Color Hue FX (off by default. Bound to F11). If this is enabled by default, edit ColorCorrection.h (bottom, set enabled to false)
+ 
 Bloom can be a bit bright in direct sunlight, but that's the whole idea: in bright sunlight things
 are.... bright ;)
+
+
 
